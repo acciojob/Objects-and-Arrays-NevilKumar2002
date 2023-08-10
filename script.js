@@ -17,5 +17,5 @@ window.team1 = team1;
 window.cap1 = cap1;
 // Given array and object
   // Create a copy of the person object using the spread operator
-
-const person1=[...team,...team1];
+const AccioJob= ["John", "Bob", "Alice", "Poppy"];
+const person1=[...players,...Acciojob];

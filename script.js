@@ -6,10 +6,7 @@ const person = {
 };
 let team=["John", "Bob", "Alice", "Poppy"];
 let team1=["John", "Bob", "Alice", "Poppy"];
-let cap1 = {
-  name: "John Doe",
-  age: 80,
-};
+let cap1 =person.copy();
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
 
 window.players = players;

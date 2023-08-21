@@ -4,8 +4,8 @@ const person = {
   name: "John Doe",
   age: 80,
 };
-let team=["John", "Bob", "Alice", "Poppy"];
-let team1=["John", "Bob", "Alice", "Poppy"];
+let team=["John", "Bob", "Alice", "Dhoni"];
+let team1=["John", "Bob", "Alice", "Dhoni"];
 let cap1 =Object.assign({}, person);
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
 

@@ -4,16 +4,11 @@ const person = {
   name: "John Doe",
   age: 80,
 };
-for(let i=0 ;i<players.length;i++)
-	{
-		if(players[i] == "Poppy")
-		{
-			"Poppy"=="Dhoni";
-		}
-	}
-let team=["John", "Bob", "Alice","Poppy"];
-let team1=["John", "Bob", "Alice","Poppy"];
-let cap1 =Object.assign({}, person);
+
+let team=players;
+let team1=players.slice();
+let cap1 = Object.assign({}, person);
+
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
 
 window.players = players;
